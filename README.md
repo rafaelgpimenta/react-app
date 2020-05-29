@@ -1,3 +1,5 @@
+[![Build Status](https://cloud.drone.io/api/badges/rafaelgpimenta/react-app/status.svg)](https://cloud.drone.io/rafaelgpimenta/react-app)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
